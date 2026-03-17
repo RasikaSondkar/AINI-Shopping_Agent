@@ -49,43 +49,10 @@ cd AINI_Shopping_Agent
 
 Install dependencies
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1c33a5c-ecc4-401f-a6db-445bcef53a56" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/948ee01f-06a3-4422-89d0-1173e3c87d7e" />
+
+
+
 pip install streamlit groq python-dotenv
 
-image image
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Contributors
-1
-@RasikaSondkar
-RasikaSondkar
-Languages
-Python
-100.0%
-Suggested workflows
-Based on your tech stack
-Python application logo
-Python application
-Create and test a Python application.
-SLSA Generic generator logo
-SLSA Generic generator
-Generate SLSA3 provenance for your existing release workflows
-Django logo
-Django
-Build and Test a Django Project
-More workflows
-Footer
